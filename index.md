@@ -77,11 +77,12 @@
 ## 【テーマ】
 #### ◇ 現在取り組んでいる
 - 音楽ゲームの譜面制作
-- Unityで作るノベルゲーム
 - 自動移動のアクションゲーム
+- Unityで作るノベルゲーム
 - 育成のやつ
 - 自然なアニメーション制作
 - ドット絵のエフェクト作成
+- RPGの設定
 
 [色々](https://drive.google.com/drive/folders/1uu_f6LxS0uS0D7-Y9JxvpuR512hdkisS?usp=sharing)
 
